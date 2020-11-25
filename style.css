@@ -1,5 +1,5 @@
 body{
-    background-color: green;
+    background-color: darkblue;
   }
   
   h1{
@@ -40,7 +40,7 @@ body{
   }
   
   #a1{
-    box-shadow: 10px 10px 5px darkslategray;
+    box-shadow: 10px 10px 5px lightskyblue;
     position: relative;
   }
   
@@ -51,7 +51,7 @@ body{
   }
   
   #a3{
-    color: rgb(2, 2, 182);
+    color:red (2, 2, 182);
     margin: auto;
     text-align: center;
   }
@@ -68,12 +68,12 @@ body{
   .navbar-custom{
     text-align: center;
     font-size: larger;
-    color: rgb(51, 131, 250);
+    color: red (51, 131, 250);
     background-color: black;
   }
   
   .navbar-nav{
-    color: blue;
+    color: red;
     text-align: center;
   }
   
@@ -84,9 +84,9 @@ body{
     
     
   .nav-item{
-    color: rgb(51, 131, 250);
+    color: red (51, 131, 250);
   }
   
   .nav-item:hover{
-    color: greenyellow;
+          color: greenyellow;
   }
