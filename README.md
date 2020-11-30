@@ -1,6 +1,6 @@
 # web-design-challenge
 
-WEBSITE URL: https://joelcox518.github.io/web-design-challenge.github.io/index.html 
+WEBSITE URL: https://joelcox518.github.io/web-design-challenge.github.io
 
 
 Before You Begin
